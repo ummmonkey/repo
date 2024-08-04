@@ -1,0 +1,8 @@
+Origin: Monkey's Repo
+Label: Monkey's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: a tiny repo of my projects.
